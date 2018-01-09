@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: eced4e3b8d8eb4cb8890f317bdb96d62
+timeCreated: 1451787892
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Ball_cell
+    100004: Ball_cell_002
+    100006: Ball_cell_003
+    100008: Ball_cell_004
+    100010: Ball_cell_005
+    100012: Ball_cell_009
+    100014: Ball_cell_011
+    100016: Ball_cell_012
+    100018: Ball_cell_013
+    100020: //RootNode
+    400000: Ball
+    400002: Ball_cell
+    400004: Ball_cell_002
+    400006: Ball_cell_003
+    400008: Ball_cell_004
+    400010: Ball_cell_005
+    400012: Ball_cell_009
+    400014: Ball_cell_011
+    400016: Ball_cell_012
+    400018: Ball_cell_013
+    400020: //RootNode
+    2300000: Ball
+    2300002: Ball_cell
+    2300004: Ball_cell_002
+    2300006: Ball_cell_003
+    2300008: Ball_cell_004
+    2300010: Ball_cell_005
+    2300012: Ball_cell_009
+    2300014: Ball_cell_011
+    2300016: Ball_cell_012
+    2300018: Ball_cell_013
+    3300000: Ball
+    3300002: Ball_cell
+    3300004: Ball_cell_002
+    3300006: Ball_cell_003
+    3300008: Ball_cell_004
+    3300010: Ball_cell_005
+    3300012: Ball_cell_009
+    3300014: Ball_cell_011
+    3300016: Ball_cell_012
+    3300018: Ball_cell_013
+    4300000: Ball_cell_013
+    4300002: Ball_cell_012
+    4300004: Ball_cell_011
+    4300006: Ball_cell_009
+    4300008: Ball_cell_005
+    4300010: Ball_cell_004
+    4300012: Ball_cell_003
+    4300014: Ball_cell_002
+    4300016: Ball_cell
+    4300018: Ball
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .699999988
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
